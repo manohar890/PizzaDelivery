@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-image: url('https://www.google.com/imgres?imgurl=https%3A%2F%2Fstatic.toiimg.com%2Fphoto%2F54699659.cms&tbnid=0csX9C_ryKogfM&vet=12ahUKEwi6yuHz4MyBAxW2SGwGHdKtAk4QMygIegQIARBu..i&imgrefurl=https%3A%2F%2Frecipes.timesofindia.com%2Frecipes%2Fpaneer-pizza%2Frs54699659.cms&docid=Xz-fr5UyLId4JM&w=1200&h=1200&q=pizza%20images%20hd&hl=en&ved=2ahUKEwi6yuHz4MyBAxW2SGwGHdKtAk4QMygIegQIARBu');
+
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

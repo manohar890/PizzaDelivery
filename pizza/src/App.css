@@ -1,0 +1,52 @@
+.App {
+  text-align: center;
+  background-image: url('https://www.google.com/imgres?imgurl=https%3A%2F%2Fstatic.toiimg.com%2Fphoto%2F54699659.cms&tbnid=0csX9C_ryKogfM&vet=12ahUKEwi6yuHz4MyBAxW2SGwGHdKtAk4QMygIegQIARBu..i&imgrefurl=https%3A%2F%2Frecipes.timesofindia.com%2Frecipes%2Fpaneer-pizza%2Frs54699659.cms&docid=Xz-fr5UyLId4JM&w=1200&h=1200&q=pizza%20images%20hd&hl=en&ved=2ahUKEwi6yuHz4MyBAxW2SGwGHdKtAk4QMygIegQIARBu');
+ 
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+/* WelcomePage.css */
+
+h3{
+  color:cornflowerblue;
+}
+#footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  height: 60px;   /* Height of the footer */
+  background: #6cf;
+}
